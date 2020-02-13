@@ -2,7 +2,7 @@
 Questions that are logic puzzles asked during interviews
 ---
 
-###### 1. You have 8 balls of the same size, 7 balls weight the same and one of them weighs slightly more. Find the heavier ball using a balance and only 2 weighings
+#### 1. You have 8 balls of the same size, 7 balls weight the same and one of them weighs slightly more. Find the heavier ball using a balance and only 2 weighings
 
 
 <details><summary><b>Answer</b></summary>
