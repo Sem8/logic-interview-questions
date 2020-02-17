@@ -36,12 +36,17 @@ If there are 7 pieces in the gold bar, make a cut after the 4th piece and anothe
 
 ---
 
-#### 3. lorem ipsum
+#### 3. In front of you are 3 boxes. On box contains only apples, another box contains only organges, and the last contains both apples and oranges. The 1st box has the label 'apples', the 2nd 'oranges', and the third 'apples and oranges'. But unfortunately, all of the labels are wrong, and you have to fix them so each box has the correct label. You cannot see inside the boxes. But you can ask for a sample from any box. You point to a box, and you get a random fruit from that box. What is the minimum number of samples you need to label all of the boxes correctly. 
 
 <details><summary><b>Answer</b></summary>
 <p>
 
 #### Answer: 
+<p>We can take advantage of the fact that ALL 3 boxes are labeled incorrectly</p>
+<span> 'Apples' </span>  <span> 'Oranges' </span>   <span> 'Apples and Oranges' </span>
+<p>We can take a sample from 'Apples and Oranges' and see what the fruit is. And since 'Apples and Oranges' is mislabeled, we know exactly what the fruit is after taking the sample from that box, so if the sample is orange, the label should be orange or vice versa for apple. So, for example if this 3rd box is acually apples, we'll correctly label it apples. The next 2 boxes will be easy to figure out as the other box labeled apples will definitely not be apples, and the other box labeled oranges will definitely not be oranges</p>
+<p>Since the box labeled oranges is definitely wrong and apples is already taken, that leaves us with only Apples and Oranges for that box previously mislabeled orange</p>
+<p>And now the only remaining label is oranges which goes to the box previously mislabled Apples. And the problem is solved. </p>
 
 </p>
 </details>
