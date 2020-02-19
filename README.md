@@ -63,3 +63,25 @@ If there are 7 pieces in the gold bar, make a cut after the 4th piece and anothe
 
 </p>
 </details>
+
+---
+
+#### 5. A child spent $100.00 to get 100 toy animals. The child bought at least 1 cat, 1 fish and 1 bird and did not buy aany other toys. If a cat costs $10.00, a fish costs $3.00, and a bird costs $0.50, how many of each toy did the child buy? 
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: 
+<p> c + f + b = 100</p>
+<p> 10c + 3f + 0.5b = 100 </p>
+<p> b = 100 - c - f </p>
+<p>10c + 3f + 0.5(100 - c - f) = 100 --> 10c + 3f + 50 - 0.5c - 0.5f = 100 </p>
+<p>9.5c + 2.5f + 50 = 100 --> (x2) --> 19c + 5f + 100 = 200 --> 19c + 5f = 100</p>
+<p> f = 100/5 - (19/5)c  -->  f = 20 - (19/5)c</p>
+<p> At this point we know, f and c should be whole numbers and c has to be a multiple of 5 to be a whole number since 5 is in it's denominator</p>
+<p>For f to be a whole number of at least 1, we know c has to be at least 5 so that we can get 20 - (19/5)*5</p>
+<p>So, for lowest numbers of f and c, f can be 1 and c would have to be 5</p>
+<p>Since we know b = 100 - c - f  , we can say b = 100 - 5 - 1 so b = 94</p>
+<span> f = 1 </span> <span> c = 5 </span> <span> b = 94 </span>
+</p>
+</details>
