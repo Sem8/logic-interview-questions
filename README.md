@@ -85,3 +85,14 @@ If there are 7 pieces in the gold bar, make a cut after the 4th piece and anothe
 <span> f = 1 </span> <span> c = 5 </span> <span> b = 94 </span>
 </p>
 </details>
+
+#### 6. Measure 45 minutes of time using 2 identical wires. Each wire takes an hour to burn. The wires burn non-uniformly
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: 
+<p> Light up both ends of 1st wire so it burns up and finishes in 30 minutes. At the same time light up only the 2nd end of the 2nd wire so half the 2nd wire is burned in 30 minutes time. Once the 1st wire has finished up burning in 30 minutes time, light up the other end of the 2nd wire so then it'll finish burning in 15 minutes time since half of it was already burnt in the last 30 minutes and we'll get 45 minutes once the 2nd wire is burnt up after it's 2nd end is lit up</p>
+
+</p>
+</details>
